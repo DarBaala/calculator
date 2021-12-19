@@ -14,3 +14,8 @@ function equal() {
     document.form.textview.value = eval(exp);
   }
 }
+let haram = function haramAlert() {
+  alert(
+    "HARAM HARAM HARAM HARAM HARAM HARAM HARAM HARAM HARAM HARAM HARAM HARAM HARAM HARAM HARAM HARAM"
+  );
+};
